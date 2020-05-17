@@ -1,0 +1,10 @@
+<table style="width:100%; color: white; text-align:center;">
+            <tr>
+                <td><a href="blue.html"><img src="images/bluepill.png" alt="blue pill" height = "10%" width = "10%"></a></td>
+                <td><a href="red.html"><img src="images/redpill.png" alt="red pill" height = "10%" width = "10%"></a></td>
+              </tr>
+            <tr>
+              <td>You take the blue pill, the story ends; you wake up in your bed and believe whatever you want to believe.</td>
+              <td>You take the red pill, you stay in Wonderland and I show you how deep the rabbit hole goes.</td>
+            </tr>
+          </table>

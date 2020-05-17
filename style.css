@@ -1,0 +1,26 @@
+button {
+  width: 200px;
+  height: 50px;
+  font-size: 24px;
+  background-color: green;
+}
+
+button:hover {
+  background-color: red;
+}
+
+#info {
+  font-weight: bold;
+}
+
+div {
+  font-size: 18px;
+}
+div p {
+  color: red;
+}
+div ul {
+  color: green;
+}
+
+/*# sourceMappingURL=style.css.map */
