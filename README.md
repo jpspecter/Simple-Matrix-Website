@@ -1,3 +1,4 @@
-# Project 0
+# Harvard CS 50 Project 0
 
-Web Programming with Python and JavaScript
+Simple website for the movie series "The Matrix" using HTML and CSS
+Start from index.html and follow the directions!
